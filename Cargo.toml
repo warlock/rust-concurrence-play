@@ -1,0 +1,6 @@
+[package]
+name = "concurrence-play"
+version = "0.1.0"
+authors = ["Josep Subils <js@js.gl>"]
+
+[dependencies]
